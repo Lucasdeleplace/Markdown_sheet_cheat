@@ -12,14 +12,6 @@
 
 *italicized text*
 
-### Highlight
-
-wait ==WARNING==.
-
-### Subscript
-
-H^2^O
-
 ### Blockquote
 
 > blockquote
