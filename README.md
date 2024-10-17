@@ -18,15 +18,15 @@
 
 ### Ordered List
 
-1. First item
-2. Second item
-3. Third item
+1. First
+2. Second
+3. Third
 
 ### Unordered List
 
-- First item
-- Second item
-- Third item
+- First
+- Second
+- Third
 
 ### Code
 
@@ -44,10 +44,6 @@
 
 ![alt text](https://media1.tenor.com/m/nmHFqdrObMoAAAAC/salut-cat.gif)
 
-## Extended Syntax
-
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
-
 ### Table
 
 | Syntax | Description |
@@ -59,9 +55,9 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Michel",
+  "lastName": "Marc",
+  "age": 42
 }
 ```
 ### Task List
@@ -72,3 +68,4 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 ### Emoji
 
 WoW i enjoy that :joy:
+
