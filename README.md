@@ -12,6 +12,14 @@
 
 *italicized text*
 
+### Highlight
+
+==WARNING==
+
+### Subscript
+
+H~2~O
+
 ### Blockquote
 
 > blockquote
@@ -30,7 +38,7 @@
 
 ### Code
 
-`code`
+`I am a code`
 
 ### Horizontal Rule
 
@@ -46,14 +54,36 @@
 
 ### Table
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Syntax | Description | other |
+| ----------- | ----------- | ----------- |
+| Header | Title | Paragraphe |
+| Paragraph | Text | Text |
+
+### Table Alignment
+
+| Syntax | Description | other |
+| :---  | :----:  | ---: |
+| Header | Title | Paragraphe |
+| Paragraph | Text | Text |
 
 ### Fenced Code Block
 
 ```
+{
+  "firstName": "Michel",
+  "lastName": "Marc",
+  "age": 42
+}
+```
+### Syntax Highlighting
+```json
+{
+  "firstName": "Michel",
+  "lastName": "Marc",
+  "age": 42
+}
+```
+```js
 {
   "firstName": "Michel",
   "lastName": "Marc",
