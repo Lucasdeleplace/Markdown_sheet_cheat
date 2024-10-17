@@ -14,11 +14,11 @@
 
 ### Highlight
 
-==WARNING==
+wait ==WARNING==.
 
 ### Subscript
 
-H~2~O
+H^2^O
 
 ### Blockquote
 
